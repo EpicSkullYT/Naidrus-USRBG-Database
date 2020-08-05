@@ -17,3 +17,8 @@
 
 
 <h3>DM Naidru The Fennec Fox#3580 to have your own background.</h3>
+
+Please include this code before the start of the source code
+@import url('https://epicskullyt.github.io/Naidrus-USRBG-Database/dist/usrbg.css');
+@import url('https://epicskullyt.github.io/Naidrus-USRBG-Database/snippets/userPopouts.css');
+@import url('https://epicskullyt.github.io/Naidrus-USRBG-Database/snippets/modals.css');
