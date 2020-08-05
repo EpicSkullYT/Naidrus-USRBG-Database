@@ -2363,3 +2363,10 @@
 [data-user-id*="441384103946878987"]{
   --user-background: url('https://docs.google.com/drawings/d/e/2PACX-1vQe0C2SYHQkNPlbOngrAEYNwoWRmnGzPsXHCyFbrVF8y1AUhnIzQ3-_q64BLpkvx8WSX_zXDGD3DuVD/pub?w=900&h=1440'); 
 }
+
+/*Naidru The Fennec Fox#3580*/
+
+[user_by_bdfdb*="97051685918109696"],
+[data-user-id*="97051685918109696"]{
+  --user-background: url('https://media.discordapp.net/attachments/331054139389902848/740305040597581855/some_logo2.png'); 
+}
