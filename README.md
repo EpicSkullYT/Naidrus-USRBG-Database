@@ -16,8 +16,4 @@
 * [Tranquil](http://github.com/monstrousdev/themes/blob/master/phoenix-bundle/) by monstrousdev
 
 
-<h3>Approved Request Locations</h3>
-<p>(note that you may also request a background through a pull request on this repo)</p>
-
-* [Black Box](https://discord.gg/TeRQEPb)
-* [A user's stuff](https://discord.gg/6jQ4qJV)
+<h3>DM Naidru The Fennec Fox#3580 to have your own background.</h3>
