@@ -21,11 +21,11 @@
 Please include this code before the start of the source code
 
 
-##Required##
+##Required
 @import url('https://epicskullyt.github.io/Naidrus-USRBG-Database/dist/usrbg.css');
 
-##Have the background show on the User Popout##
+##Have the background show on the User Popout
 @import url('https://epicskullyt.github.io/Naidrus-USRBG-Database/snippets/userPopouts.css');
 
-##Have the background show on the profile##
+##Have the background show on the profile
 @import url('https://epicskullyt.github.io/Naidrus-USRBG-Database/snippets/modals.css');
