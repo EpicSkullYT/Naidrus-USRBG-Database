@@ -2377,3 +2377,10 @@
 [data-user-id*="663037270588391425"]{
   --user-background: url('https://media.discordapp.net/attachments/731621137695637576/740745209561743360/1_G6i85A0humwYmidLnngDuQ.png?width=450&height=450'); 
 }
+
+/*Parnaw#0001*/
+
+[user_by_bdfdb*="404209798499008512"],
+[data-user-id*="404209798499008512"]{
+  --user-background: url('https://media.discordapp.net/attachments/697593555262373918/740961238330245160/maxresdefault.png?width=801&height=451'); 
+}
