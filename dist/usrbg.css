@@ -2384,3 +2384,10 @@
 [data-user-id*="404209798499008512"]{
   --user-background: url('https://media.discordapp.net/attachments/697593555262373918/740961238330245160/maxresdefault.png?width=801&height=451'); 
 }
+
+/*Winston#6180*/
+
+[user_by_bdfdb*="243238986997432322"],
+[data-user-id*="243238986997432322"]{
+  --user-background: url('https://media.discordapp.net/attachments/703034587504443433/741016067744464986/236-2362463_classified-scp-foundation-profiles.png'); 
+}
