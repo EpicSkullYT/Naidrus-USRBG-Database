@@ -2391,3 +2391,10 @@
 [data-user-id*="243238986997432322"]{
   --user-background: url('https://media.discordapp.net/attachments/703034587504443433/741016067744464986/236-2362463_classified-scp-foundation-profiles.png'); 
 }
+
+/*IncendiumWolf#1737*/
+
+[user_by_bdfdb*="417105847274176523"],
+[data-user-id*="417105847274176523"]{
+  --user-background: url('https://media.discordapp.net/attachments/667147677372514306/741032019638878298/Untitled_5.png?width=375&height=450'); 
+}
