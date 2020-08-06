@@ -6,3 +6,5 @@
 
 <h3>DM Naidru The Fennec Fox#3580 on discord to have your own background.</h3>
 <h3>You may also submit themes that are already made to Naidru The Fennec Fox#3580 to have them downloadable with the Database built into it</h3>
+
+<h1>In order to use any of these backgrounds you MUST atleast have 1 plugin active made by DevilBro</h1>
