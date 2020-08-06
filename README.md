@@ -1,31 +1,8 @@
-<h1 align="center">Usrbg</h1>
+<h1 align="center">Usrbg - User Background Database</h1>
 <p align="center">A database of custom user requested backgrounds designed for BetterDiscord and Powercord.</p>
 <p align="center">Want to add a custom background system to your theme? Feel free to import or modify any file from this repository.</p>
 
 ![](https://i.imgur.com/yClqBoR.png)
-## Known themes that have usrbg built-in:
-* [Aurora](https://github.com/KorbsStudio/Aurora) by Tropical and Korbs
-* [Bash](https://github.com/A-User-s-Discord-Themes/Bash/) from A user (unmaintained)
-* [Black Hole](https://github.com/monstrousdev/themes/tree/master/black-hole) by monstrousdev
-* [Couve](https://github.com/A-User-s-Discord-Themes/Couve/) from A user
-* [Dream Frame](https://github.com/dream-frame/Dream-Frame) from Korbs and Creatable
-* [Frosted Glass](https://github.com/gibbu/BetterDiscord-Themes/tree/master/) by Gibbu
-* [Midnight](https://tropix126.github.io/BetterDiscordStuff/midnight/) by Tropical
-* [Reborn](http://github.com/monstrousdev/themes/blob/master/phoenix-bundle/) by monstrousdev
-* [SimplyDark](https://github.com/gibbu/BetterDiscord-Themes/tree/master/) by Gibbu
-* [Tranquil](http://github.com/monstrousdev/themes/blob/master/phoenix-bundle/) by monstrousdev
 
-
-<h3>DM Naidru The Fennec Fox#3580 to have your own background.</h3>
-
-Please include this code before the start of the source code
-
-
-##Required
-@import url('https://epicskullyt.github.io/Naidrus-USRBG-Database/dist/usrbg.css');
-
-##Have the background show on the User Popout
-@import url('https://epicskullyt.github.io/Naidrus-USRBG-Database/snippets/userPopouts.css');
-
-##Have the background show on the profile
-@import url('https://epicskullyt.github.io/Naidrus-USRBG-Database/snippets/modals.css');
+<h3>DM Naidru The Fennec Fox#3580 on discord to have your own background.</h3>
+<h3>You may also submit themes that are already made to Naidru The Fennec Fox#3580 to have them downloadable with the Database built into it</h3>
