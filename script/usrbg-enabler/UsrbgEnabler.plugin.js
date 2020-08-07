@@ -1,4 +1,4 @@
-//META{"name":"Usrbg Enabler","authorId":"97051685918109696","source":"https://github.com/EpicSkullYT/Naidrus-USRBG-Database"}*//
+//META{"name":"Usrbg Enabler","authorId":"97051685918109696","source":"https://github.com/EpicSkullYT/Naidrus-USRBG-Database/blob/master/script/usrbg-enabler/UsrbgEnabler.plugin.js"}*//
 
 var OwnerTag = (_ => {
 	const userTypes = {
